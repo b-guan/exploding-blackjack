@@ -8,7 +8,7 @@ Made by:
 
 ## How to Run
 
-OCaml is needed to run game. Open terminal and `cd` to folder `ebfiles` and enter command `make play`.
+OCaml is needed to run the game. Open terminal and `cd` to folder `ebfiles` and enter command `make play`.
 
 ## How to Play
 
