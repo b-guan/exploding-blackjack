@@ -1,6 +1,6 @@
 # Exploding BlackJack
 
-Made by:  
+Made by:
   
   - Anna Huang  
   - Maggie Liu  
