@@ -87,5 +87,14 @@ The official rules for each game are listed below.
   - [h] instead of [hit], 
   - [s] instead of [stand].
 
+## Screenshots
 
+### Saving/Loading
+
+![Screenshot](save-load.gif)
+
+### Normal
+![Screenshot](normal.gif)
+
+### Special
 ![Screenshot](special.gif)
