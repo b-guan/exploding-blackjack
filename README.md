@@ -86,3 +86,6 @@ The official rules for each game are listed below.
   - [n] instead of [next], 
   - [h] instead of [hit], 
   - [s] instead of [stand].
+
+
+![Screenshot](special.gif)
